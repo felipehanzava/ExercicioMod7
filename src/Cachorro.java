@@ -1,3 +1,5 @@
+// objeto para Cachorros
+
 public class Cachorro {
 
     private int codigo;

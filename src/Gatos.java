@@ -1,7 +1,4 @@
-/**
- * @author felipehz
- */
-
+// objeto para Gatos
 public class Gatos {
 
     private int codigo;

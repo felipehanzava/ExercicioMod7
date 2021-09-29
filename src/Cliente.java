@@ -1,3 +1,5 @@
+// objeto para Donos dos animais
+
 public class Cliente {
 
     private int codigo;
